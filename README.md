@@ -11,10 +11,10 @@
 
 ### 📌 About me
 
-- 🎓 I am developer with ** web development (back-end and front) **, ** databases **, ** Data analysis **, ** Qa ** among others.
-- 💡 I am passionate ** Learn new technologies ** and create useful and innovative projects.
-- 🚀 Currently working on projects with ** Asp.net Core MVC ** and ** React **, among other programming languages.
-- 📚 In constant learning of ** software architecture **, ** databases ** and ** good practices **.
+- 🎓 I am developer with **web development (back-end and front)**, **databases**, **Data analysis**, **QA** among others.
+- 💡 I am passionate **Learn new technologies** and create useful and innovative projects.
+- 🚀 Currently working on projects with **Asp.net Core MVC** and **React**, among other programming languages.
+- 📚 In constant learning of **software architecture**, **databases** and **good practices**.
 - 👨🏻‍💻 I'm deeply interested in working with you, this resume to know more about me! 
 
 ---
@@ -74,4 +74,4 @@
 
 ### 📊 Contribuciones en el último año
 
-![Contribuciones en GitHub](https://ghchart.rshah.org/tu_usuario)
+![Contribuciones en GitHub](https://ghchart.rshah.org/CarlosRG08)
