@@ -57,7 +57,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 
 ---
-
+https://i.pinimg.com/736x/b9/f7/8f/b9f78fc58570431829f7a9e537d6bca9.jpg
 ### 📂 Projects
 
 #### 🔸 🛒[**Tienda_Cece**](https://github.com/tu_usuario/Tienda_Cece)  
