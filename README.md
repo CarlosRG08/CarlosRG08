@@ -1,6 +1,6 @@
 <h1 align="center">👋🏻¡Hola, soy Carlos Rodríguez!👨🏻‍💻</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/c9/88/0a/c9880a8abf25f389be7154e8fee18270.jpg" alt="Banner de Carlos Miguel" width="60%" />
+  <img src="https://i.pinimg.com/736x/f9/39/bb/f939bbdfb0ac7fe008e46a817da42702.jpg" alt="Banner de Carlos Miguel" width="60%" />
 </p>
 
 <p align="center">
