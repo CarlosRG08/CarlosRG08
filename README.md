@@ -60,5 +60,11 @@
 
 ### 📂 Proyectos destacados
 
-```diff
-+ Aquí algunos proyectos que representan mi trabajo:
+- 🛒 [**Tienda_Cece**]
+- (https://github.com/tu_usuario/Tienda_Cece)  
+
+- 🎂 [**Tienda_Pastelera_Admin**]
+- (https://github.com/CCisnerosG/SweetAmbienteWeb)  
+
+- 🌦️ [**ClimaBot**]
+- (https://github.com/tu_usuario/ClimaBot)  
