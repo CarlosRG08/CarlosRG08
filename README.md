@@ -60,11 +60,15 @@
 
 ### 📂 Proyectos destacados
 
-- 🛒 [**Tienda_Cece**]
-- (https://github.com/tu_usuario/Tienda_Cece)  
+#### 🔸 🛒[**Tienda_Cece**](https://github.com/tu_usuario/Tienda_Cece)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=ffffff)  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=ffffff)  
 
-- 🎂 [**Tienda_Pastelera_Admin**]
-- (https://github.com/CCisnerosG/SweetAmbienteWeb)  
+---
 
-- 🌦️ [**ClimaBot**]
-- (https://github.com/tu_usuario/ClimaBot)  
+#### 🔸 🎂[**Tienda_Pastelera_Admin**](https://github.com/CCisnerosG/SweetAmbienteWeb)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff)  
+
+---
+
+#### 🔸 🌦️[**ClimaBot**](https://github.com/tu_usuario/ClimaBot)  
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=ffffff)
