@@ -1,4 +1,4 @@
-<h1 align="center">👋🏻¡Hola, soy Carlos Rodríguez!👨🏻‍💻</h1>
+<h1 align="center">👋🏻¡Hi, I'm Carlos Rodríguez!👨🏻‍💻</h1>
 <p align="center">
   <img src="https://i.pinimg.com/736x/f9/39/bb/f939bbdfb0ac7fe008e46a817da42702.jpg" alt="Banner de Carlos Miguel" width="130%" />
 </p>
@@ -11,10 +11,10 @@
 
 ### 📌 About me
 
-- 🎓 Soy desarrollador con enfoque en **desarrollo web(Back-end y Front-end)**, **bases de datos**, **análisis de datos**, **QA** entre otros.
-- 💡 Me apasiona **aprender nuevas tecnologías** y crear proyectos útiles e innovadores.
-- 🚀 Actualmente trabajando en proyectos con **ASP.NET Core MVC** y **React**, entre otros lenguajes de programación.
-- 📚 En constante aprendizaje de **arquitectura de software**, **bases de datos** y **buenas prácticas**.
+- 🎓 I am developer with ** web development (back-end and front) **, ** databases **, ** Data analysis **, ** Qa ** among others.
+- 💡 I am passionate ** Learn new technologies ** and create useful and innovative projects.
+- 🚀 Currently working on projects with ** Asp.net Core MVC ** and ** React **, among other programming languages.
+- 📚 In constant learning of ** software architecture **, ** databases ** and ** good practices **.
 
 ---
 
@@ -58,7 +58,7 @@
 
 ---
 
-### 📂 Proyectos destacados
+### 📂 Projects
 
 #### 🔸 🛒[**Tienda_Cece**](https://github.com/tu_usuario/Tienda_Cece)  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=ffffff)  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=ffffff)  
