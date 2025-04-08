@@ -1,6 +1,6 @@
 <h1 align="center">👋🏻¡Hi, I'm Carlos Rodríguez!👨🏻‍💻</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f9/39/bb/f939bbdfb0ac7fe008e46a817da42702.jpg" alt="Banner de Carlos Miguel" width="130%" />
+  <img src="https://i.pinimg.com/736x/f9/39/bb/f939bbdfb0ac7fe008e46a817da42702.jpg" alt="Banner" width="130%" />
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
 - 💡 I am passionate ** Learn new technologies ** and create useful and innovative projects.
 - 🚀 Currently working on projects with ** Asp.net Core MVC ** and ** React **, among other programming languages.
 - 📚 In constant learning of ** software architecture **, ** databases ** and ** good practices **.
+- 👨🏻‍💻 I'm deeply interested in working with you, this resume to know more about me! 
 
 ---
 
@@ -57,18 +58,13 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
 
 ---
-https://i.pinimg.com/736x/b9/f7/8f/b9f78fc58570431829f7a9e537d6bca9.jpg
-### 📂 Projects
+#### 📂 Projects
 
 #### 🔸 🛒[**Tienda_Cece**](https://github.com/tu_usuario/Tienda_Cece)  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=ffffff)  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?logo=aspnet&logoColor=ffffff)  
 
----
-
 #### 🔸 🎂[**Tienda_Pastelera_Admin**](https://github.com/CCisnerosG/SweetAmbienteWeb)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff)  
-
----
 
 #### 🔸 🌦️[**ClimaBot**](https://github.com/tu_usuario/ClimaBot)  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=ffffff)
