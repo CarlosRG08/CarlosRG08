@@ -68,3 +68,10 @@
 
 #### 🔸 🌦️[**ClimaBot**](https://github.com/tu_usuario/ClimaBot)  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=ffffff)
+
+#### 🔸 🦖[**Frikiland**](https://github.com/tu_usuario/ClimaBot)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="50" height="15"/>
+
+### 📊 Contribuciones en el último año
+
+![Contribuciones en GitHub](https://ghchart.rshah.org/tu_usuario)
